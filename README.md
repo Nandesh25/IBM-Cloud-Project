@@ -61,7 +61,7 @@ API reference\
 rescourse list\
 ![WhatsApp Image 2025-08-03 at 10 10 24_f3b65da0](https://github.com/user-attachments/assets/44ae7c50-bab2-494c-a1f0-5b4fca0dbd1e)
 
-How to run
+How to run\
 Log in to IBM Cloud Lite: https://cloud.ibm.com\
 Launch Watsonx.ai Studio\
 Create a new AI Agent\
