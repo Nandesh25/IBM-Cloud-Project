@@ -29,14 +29,16 @@ Cloud Services
 *IBM Cloud IAM\
 *IBM Cloud Object Storage
 
-Users\
+Users
+
 The Busy Professional\
-The Fitness Beginner\ 
-The Budget-Conscious Individual\ 
-The Unmotivated Individual\ 
-Individuals Seeking Basic Guidance\
+The Fitness Beginner\
+Budget-Conscious Individual\
+Unmotivated Individual\
+Individuals Seeking Basic Guidance
 
 Features
+
 Personalized Workout Recommendations\
 Daily Motivation and Inspiration\
 Simple Nutrition Guidance\
