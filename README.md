@@ -29,7 +29,7 @@ Cloud Services
 *IBM Cloud IAM\
 *IBM Cloud Object Storage
 
-Users
+Users\
 The Busy Professional\
 The Fitness Beginner\ 
 The Budget-Conscious Individual\ 
