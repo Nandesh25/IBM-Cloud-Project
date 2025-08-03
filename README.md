@@ -20,14 +20,14 @@ Technology Used
 *IBM Cloud Object Storage\
 
 Cloud Services
-*Watsonx.ai Studio\
-*IBM Granite Model\
-*Watsonx Vector Index\
-*IBM Cloud Lite Account\
-*IBM Cloud Lite Account\
-*IBM Cloud Lite Account\
-*IBM Cloud IAM\
-*IBM Cloud Object Storage
+Watsonx.ai Studio\
+IBM Granite Model\
+Watsonx Vector Index\
+IBM Cloud Lite Account\
+IBM Cloud Lite Account\
+IBM Cloud Lite Account\
+IBM Cloud IAM\
+IBM Cloud Object Storage
 
 Users
 
@@ -46,21 +46,21 @@ Habit-Building Support\
 On-Demand Accessibility
 
 Screenshots
-setup\
+SETUP\
 ![WhatsApp Image 2025-08-02 at 12 42 05_d2ee55ef](https://github.com/user-attachments/assets/6f9df913-3662-4a84-bbb1-cfcb1d0c6f37)
-agent instruction\
+AGENT INSTRUCTION\
 ![WhatsApp Image 2025-08-02 at 12 43 26_061561e2](https://github.com/user-attachments/assets/8a4fe31a-d55a-4f36-bfd1-b678959d4085)
 <img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/3aec27db-ef08-4f20-aff8-fccf362e8532" />
-vector index\
+VECTOR INDEX\
 ![WhatsApp Image 2025-08-03 at 11 03 40_88929483](https://github.com/user-attachments/assets/c75a833b-ee73-4cfb-8aae-cfbb55370143)
-tools\
+TOOLS\
 ![WhatsApp Image 2025-08-02 at 12 40 25_7eef261f](https://github.com/user-attachments/assets/52520507-943d-4884-b307-2119cb432e1f)
-deployment and preview\
+DEPLOYMENT AND PREVIEW\
 ![WhatsApp Image 2025-08-02 at 12 42 05_679051a1](https://github.com/user-attachments/assets/f6365e5b-edbe-4dfd-bcd0-0d2bb69002c5)
 ![WhatsApp Image 2025-08-02 at 12 31 27_aa218851](https://github.com/user-attachments/assets/6312c154-169b-4f0d-a3b8-860225dba05f)
-API reference\
+API REFERENCE\
 ![WhatsApp Image 2025-08-02 at 12 04 04_df733569](https://github.com/user-attachments/assets/95685f0e-6691-44b0-bf9f-c8019516a809)
-rescourse list\
+RESOURCE LIST\
 ![WhatsApp Image 2025-08-03 at 10 10 24_f3b65da0](https://github.com/user-attachments/assets/44ae7c50-bab2-494c-a1f0-5b4fca0dbd1e)
 
 How to run\
