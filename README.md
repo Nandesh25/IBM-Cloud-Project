@@ -13,11 +13,11 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 Technology Used
 
-*IBM Watsonx.ai Studio\
-*IBM Granite Foundation Model (LLM)\
-*Vector Index for Retrieval-Augmented Generation\
-*NLP (Natural Language Processing)\
-*IBM Cloud Object Storage\
+IBM Watsonx.ai Studio\
+IBM Granite Foundation Model (LLM)\
+Vector Index for Retrieval-Augmented Generation\
+NLP (Natural Language Processing)\
+IBM Cloud Object Storage\
 
 Cloud Services
 Watsonx.ai Studio\
